@@ -2,8 +2,7 @@
 
 - **Q: What can I do if I fail to launch from dialer.**
 - A: 
-</br>Option 1.Visit <file:///sdcard/.privacy_safe/privacy_safe.html> or <http://htmlpreview.github.io/?https://github.com/kaku2015/One VisionDocs/blob/master/privacy_safe.html> in the browser.
-</br>Option 2.Visit here:Settings -> Apps -> One Vision -> Storage -> Manage Space.
+</br>Visit <file:///sdcard/.privacy_safe/privacy_safe.html> or <http://htmlpreview.github.io/?https://github.com/kaku2015/PrivacySafeDocs/blob/master/privacy_safe.html> in the browser.
 
 - **Q: "Intruder Selfie" feature does not work.**
 - A: 
