@@ -4,6 +4,9 @@
 - A: 
 </br>Visit <file:///sdcard/.privacy_safe/privacy_safe.html> or <http://htmlpreview.github.io/?https://github.com/kaku2015/PrivacySafeDocs/blob/master/privacy_safe.html> in the browser.
 
+- **Q: Why does the photo still exist in the phone album after it is added to the One Vision**
+A: Some mobile phones have a system built-in cloud synchronization services, such as Huawei, Xiaomi and so on. When you add a photo or video to the One Vision, the source file will be automatically deleted by the One Vision. However, when cloud services are turned on and allow automatic synchronization, they are automatically recovered from the phone cloud. After adding photos or videos to the One Vision, go to the system album and wait a few seconds, when the files are restored, manually delete them.
+
 - **Q: "Intruder Selfie" feature does not work.**
 - A: 
 </br>1.Make sure "intruder Selfie" feature has been enabled.
@@ -58,3 +61,17 @@
 - **Q: Huawei EMUI system, individual system apps disappear after activating ADB.**
 - A: This is caused by a bug in the latest version (more than 341) of the EMUI system. The solution to this problem is to hide the missing app and then unhide it. You can also restore after uninstalling the app and restarting your phone.
 
+- **Q: After re-entering the PrivacySafe, the encrypted files, hidden applications, etc. could not be found.**
+A: Please confirm the following points:
+</br>1. Confirm whether the fake password space was used.
+</br>2. Confirm that the login account is unique.
+</br>3. Confirm that the encrypted file has not been deleted. Please do not clean the encrypted file related to the PrivacySafe when using the cleaning application.
+
+- **Q: Is the file encrypted after uninstalling the application still exists?**
+A: As long as the encryption related files have not been actively deleted, will be automatically restored after reinstallation.
+
+- **Q: Can I retrieve the file after it is lost.**
+A: If the encrypted file still exists, you can go to the application "settings > Restore and Export > Retrieve Lost Files" to retrieve.
+
+- **Q: App auto hide failure.**
+A: The App Auto Hide mode needs to ensure that the PrivacySafe runs in the background, if it is Root mode you also need to open the Root Management application to grant permissions.
