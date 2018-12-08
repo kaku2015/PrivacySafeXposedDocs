@@ -2,7 +2,7 @@
 
 - **Q: What can I do if I fail to launch from dialer.**
 - A: 
-</br>Visit <file:///sdcard/.privacy_safe/privacy_safe.html> or <http://htmlpreview.github.io/?https://github.com/kaku2015/PrivacySafeDocs/blob/master/privacy_safe.html> in the browser.
+</br>Visit <file:///sdcard/.privacy_safe/privacy_safe.html> or <http://t.cn/Rn11KMc> in the system browser.
 
 - **Q: Why does the photo still exist in the phone album after it is added to the One Vision.**
 - A: Some mobile phones have a system built-in cloud synchronization services, such as Huawei, Xiaomi and so on. When you add a photo or video to the One Vision, the source file will be automatically deleted by the One Vision. However, when cloud services are turned on and allow automatic synchronization, they are automatically recovered from the phone cloud. After adding photos or videos to the One Vision, go to the system album and wait a few seconds, when the files are restored, manually delete them.
@@ -15,6 +15,8 @@
 </br>4.Make sure the times of errors you set for the "Intruder Selfie" feature is correct.
 </br>5.Confirm that the storage space is sufficient.
 </br>6.Make sure that the system version is 6.0 or higher.
+</br>7.Confirm that the floating window permission is turned on.
+</br>8.Some systems (oppo, vivo, etc.) may not work.
 
 - **Q: Unable to install/uninstall apps.**
 - A: You may have enabled the "Install/Uninstall Defend" feature, please disable the "Install/Uninstall Defend" feature and then install/uninstall.
@@ -53,7 +55,7 @@
 - A: Your account may be logged on multiple devices at the same time, and this problem will be resolved after re-login.
 
 - **Q: Cannot enter the One Vision by long press title from the disguise interface.**
-- A: This means that you have turned on the switch that Prohibit Unlocking by Long Press Title. At this point, you can open the One Vision by entering the PIN (if the current unlocking mode is Time PIN, enter the Time PIN and note the Time PIN is 24-hour format) and long press the calculation result button. If the fingerprint lock is on, use your fingerprint to unlock it. If none of the above methods work, use a system browser to access the website <http://htmlpreview.github.io/?https://github.com/kaku2015/One VisionDocs/blob/master/privacy_safe.html> or dial the number by phone , After dialing "#1111 (default)" to start the One Vision, check the relevant settings or disable the Prohibit Unlocking by Long Press Title.
+- A: This means that you have turned on the switch that Prohibit Unlocking by Long Press Title. At this point, you can open the One Vision by entering the PIN (if the current unlocking mode is Time PIN, enter the Time PIN and note the Time PIN is 24-hour format) and long press the calculation result button. If the fingerprint lock is on, use your fingerprint to unlock it. If none of the above methods work, use a system browser to access the website <http://t.cn/Rn11KMc> or dial the number by phone , After dialing "\*#\*#1397#\*#\*" to start the One Vision, check the relevant settings or disable the Prohibit Unlocking by Long Press Title.
 
 - **Q: It shows "The account has been bound with another device, please unbind first"**
 - A: The same account can only log in on the same device at the same time. The abnormal brushing can causes the IMEI to change, please unbind it before flashing or logging in on other devices.
